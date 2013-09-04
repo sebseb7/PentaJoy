@@ -1,1 +1,1 @@
-![board](/sebseb7/PentaJoy/raw/master/pj.png)
+![board](https://raw.github.com/sebseb7/PentaJoy/master/pj.png)
